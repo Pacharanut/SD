@@ -10,6 +10,6 @@
     <div class="w3-bar w3-red w3-card-2 w3-left-align w3-large">
 ![alt text](https://github.com/Pacharanut/SD/blob/master/3.jpg "Logo Title Pro")
        
-      <a href="https://pacharanut.github.io/SD/" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-  white">Pacharanut</a>
+ [Pacharanut](https://pacharanut.github.io/SD)
     </div>
   </div>
